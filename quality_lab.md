@@ -1,4 +1,4 @@
-#Quality Lab
+# Quality Lab
 
 ## Dark Souls
 This challenging game carved itself a place in infamy as more and more players entered the fray, prepared to die repeatedly. I believe it did so at least in part by meeting multiple quality factors. These include:
