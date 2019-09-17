@@ -1,18 +1,20 @@
-# Game Review for (GAME TITLE)
+# Game Review for DOOM (2016)
 
 ## Details
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+DOOM (2016)
+<br>[Official Website](https://bethesda.net/en/game/doom-2016)
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+4.9 out of 5 Sparkles.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+The 2016 entry in the gruesomely fun DOOM series marks a return to fast-paced shooter action after the slower, more suspenseful experience in DOOM 3.
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+[Steam Store Page](https://store.steampowered.com/app/379720/DOOM/)
+[VG24's coverage of DOOM's 2014 QuakeCon demo](https://www.vg247.com/2014/07/18/doom-4-details-quakecon-2014-reboot/)
