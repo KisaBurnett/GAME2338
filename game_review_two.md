@@ -27,4 +27,4 @@ With that said, I would say DOOM easily makes my top ten list of all-time favori
 
 ## Additional Information
 [Steam Store Page Reviews](https://store.steampowered.com/app/379720/DOOM/#app_reviews_hash)
-[VG24's coverage of DOOM's 2014 QuakeCon demo](https://www.vg247.com/2014/07/18/doom-4-details-quakecon-2014-reboot/)
+<br>[VG24's coverage of DOOM's 2014 QuakeCon demo](https://www.vg247.com/2014/07/18/doom-4-details-quakecon-2014-reboot/)
