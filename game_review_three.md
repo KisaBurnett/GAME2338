@@ -1,18 +1,23 @@
-# Game Review for (GAME TITLE)
+# Game Review for TrackMania Nations Forever
 
 ## Details
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+TrackMania Nations Forever
+<br>[Steam Store Page](https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/)
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+3.5 out of 5 Sparkles.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+This game is a fun, simple racing simulator with both solo and multiplayer options. Players are able to customize their vehicles with paint and stickers, and can even build their own custom tracks to share with others online. There's also a built-in video editing feature which allows players to take recordings of their races and make short productions.
+
+Learning the controls for the racing portion of the game is very straight-forward, and players who prefer different keybindings are able to quickly adjust them in the options menu. The vehicles are quick and responsive, and there are three different camera angles players are able to toggle between throughout the races. Each pre-built track comes with a variety of obstacles to navigate, and gradually ramps up the difficulty in times for the player to beat. This gives the player plenty of chances to hone their skill and find their best driving techniques.
+
+
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+[Komisario Palmu's Compatibility Issue Fix Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=448953593)
