@@ -7,10 +7,10 @@ Yahtzee
 [Game Website](http://www.playonlinedicegames.com/yahtzee)
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+4 out of 5 Sparkles.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+This online game is a web browser version of the popular dice game Yahtzee. Players have thirteen turns to roll dice and tally up as many points as possible for pre-defined combinations. Each combination can only be claimed for points once, and the players must select the combination they wish to apply at the end of each turn. This particular version matches the player with one opponent. The player has the option of playing against a computer or playing against another person online.
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
