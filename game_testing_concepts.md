@@ -33,4 +33,4 @@ Playtesting also provided feedback on the balance of the game from a blackbox us
 
 ## Resources
 [Official Bungie Video - Halo 3: The Testing Part 1](https://www.youtube.com/watch?v=H0sgH3maxlU)
-[Official Bungie Video - Halo 3: The Testing Part 2](https://www.youtube.com/watch?v=ZMj_YjKmp98)
+<br>[Official Bungie Video - Halo 3: The Testing Part 2](https://www.youtube.com/watch?v=ZMj_YjKmp98)
