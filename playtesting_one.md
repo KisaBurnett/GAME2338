@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for Keep Me Burning
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Attu Games
+* No rating provided
+* [Keep Me Burning Itch.io Store Page](https://navrcl.itch.io/keep-me-burning)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
