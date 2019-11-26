@@ -1,18 +1,25 @@
-# Game Review for Portal 2 Perpetual Testing Initiative
+# Game Review for Portal 2: Perpetual Testing Initiative
 
 ## Details
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Portal 2: Perpetual Testing Initiative
+[Steam Page for Portal 2](https://store.steampowered.com/app/620/Portal_2/)
+[News Page About the Perpetual Testing Initiative](https://store.steampowered.com/news/7923/)
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+5 out of 5 Sparkles.
 
 ## Summary
-This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
+The Perpetual Testing Initiative was included in an update for the PC version of Portal 2. It allows players to design and build their own test chambers, and share them with the community. The level editor is available directly within Portal 2's main menu, and is free for people who own the game.
+
+The editor uses a sleek and simple interface and display, which helps keep the program running smoothly even as the player adds more and more features to their test chamber. It provides gentle guidance with graphics rather than walls of text, done in the style of the advisories found in the Portal games. The test-builder is able to switch to the game view of the chamber in progress quickly and easily in order to make sure it plays the way they expect.
+
+
 
 ## Final Thoughts
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+[Steam Page for Portal 2](https://store.steampowered.com/app/620/Portal_2/)
+[News Page About the Perpetual Testing Initiative](https://store.steampowered.com/news/7923/)
