@@ -4,8 +4,8 @@
 
 ### Game Title
 Portal 2: Perpetual Testing Initiative
-[Steam Page for Portal 2](https://store.steampowered.com/app/620/Portal_2/)
-[News Page About the Perpetual Testing Initiative](https://store.steampowered.com/news/7923/)
+<br>[Steam Page for Portal 2](https://store.steampowered.com/app/620/Portal_2/)
+<br>[News Page About the Perpetual Testing Initiative](https://store.steampowered.com/news/7923/)
 
 ### Rating
 5 out of 5 Sparkles.
@@ -22,4 +22,4 @@ Portal 2's Perpetual Testing Initiative is honestly the easiest, most enjoyable 
 
 ## Additional Information
 [Steam Page for Portal 2](https://store.steampowered.com/app/620/Portal_2/)
-[News Page About the Perpetual Testing Initiative](https://store.steampowered.com/news/7923/)
+<br>[News Page About the Perpetual Testing Initiative](https://store.steampowered.com/news/7923/)
